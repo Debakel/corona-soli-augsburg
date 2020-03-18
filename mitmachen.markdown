@@ -20,5 +20,5 @@ Wir koordinieren uns momentan über Gruppen in der  Nachrichten-App *Telegram*. 
 - [Hammerschmiede](https://t.me/joinchat/LXjLxVkTZDyx9x00nTRgkg)
 - [Haunstetten](https://t.me/joinchat/LXjLxVHuVg6SVb5SJwTQeg)
 
-### Website
-https://github.com/Debakel/corona-soli-augsburg
+Änderungen an dieser Website können über einen Pull-Request via [Github](https://github.com/Debakel/corona-soli-augsburg) erfolgen (oder einfach eine Mail an [nachbarschaftshilfe_augsburg@posteo.net
+](mailto:nachbarschaftshilfe_augsburg@posteo.net)).
