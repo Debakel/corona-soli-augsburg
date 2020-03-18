@@ -18,9 +18,12 @@ Alexander & Team
 
 PS: Wir freuen uns natürlich über alle, die sich gerne anschließen wollen! Schreibt uns gerne eine Nachricht, damit wir uns absprechen und Besorgungen aufteilen können.
 
-### Andere Initiativen
+### Weitere Initiativen in Augsburg
 - [Rette deinen lieblingsladen](https://www.rette-deinen-lieblingsladen.de/) - Was wäre Augsburg ohne Dein Lieblings-Café, -Burger oder Laden? Hilf mit und rette deinen Lieblingsladen mit Gutscheinkäufen.
-- [WirHelfen](https://wirhelfen.eu/) ist eine zentrale Anlaufstelle für das Hilfsangebot in Deutschland. Auf der Karte findest du bundesweit alle Nachbarschaftshilfen klar und einfach zusammengefasst.
 - Auch das [Freiwilligen-Zentrum Augsburg](https://www.freiwilligen-zentrum-augsburg.de/) koordiniert und unterstützt ganz aktuell Hilfsangebote und Bedarfe.
 - Wenn Sie jemanden brauchen, der Ihnen etwas einkauft oder wenn Sie auch nur am Telefon ein paar Minuten jemanden sprechen wollen,  melden Sie sich bei der *Pfarreiengemeinschaft Augsburg-Oberhausen/Bärenkeller*:  0821-241343
 - [Facebookgruppe "Augsburg Quarantänen-Hilfe"](https://www.facebook.com/groups/205611197322088/)
+
+### ... und bundesweit
+- Auf der Plattform [quarantänehelden.org](https://www.quarantaenehelden.org/) kommen Menschen zusammen, die sich gegenseitig unterstützen
+- [WirHelfen](https://wirhelfen.eu/) ist eine zentrale Anlaufstelle für das Hilfsangebot in Deutschland. Auf der Karte findest du bundesweit alle Nachbarschaftshilfen klar und einfach zusammengefasst.
