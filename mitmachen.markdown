@@ -18,3 +18,4 @@ Wir koordinieren uns momentan über Gruppen in der  Nachrichten-App *Telegram*. 
 - [Neusäß](https://t.me/joinchat/LXjLxVb9n960UagDMrtLdA)
 - [Firnhaberau](https://t.me/joinchat/LXjLxUV_3gGsqNnnsM-LTw)
 - [Hammerschmiede](https://t.me/joinchat/LXjLxVkTZDyx9x00nTRgkg)
+- [Haunstetten](https://t.me/joinchat/LXjLxVHuVg6SVb5SJwTQeg)
