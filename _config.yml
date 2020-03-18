@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nachbarschaftshilfe Augsburg
+title: "❤️ Nachbarschaftshilfe Augsburg"
 email: nachbarschaftshilfe_augsburg@posteo.net
 description: >- # this means to ignore newlines until "baseurl:"
   Solidarische Nachbarschaftshilfe in Zeiten von Corona. Der Plan ist in jedem Ortsteil Augsburgs einige
