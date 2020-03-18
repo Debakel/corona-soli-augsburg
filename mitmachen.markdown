@@ -19,3 +19,6 @@ Wir koordinieren uns momentan über Gruppen in der  Nachrichten-App *Telegram*. 
 - [Firnhaberau](https://t.me/joinchat/LXjLxUV_3gGsqNnnsM-LTw)
 - [Hammerschmiede](https://t.me/joinchat/LXjLxVkTZDyx9x00nTRgkg)
 - [Haunstetten](https://t.me/joinchat/LXjLxVHuVg6SVb5SJwTQeg)
+
+### Website
+https://github.com/Debakel/corona-soli-augsburg
