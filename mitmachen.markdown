@@ -10,6 +10,7 @@ Wir koordinieren uns momentan über Gruppen in der  Nachrichten-App *Telegram*. 
 
 - [Bärenkeller](https://t.me/joinchat/LXjLxVdsGe-iKqEbgWW5yw)
 - [Firnhaberau](https://t.me/joinchat/LXjLxUV_3gGsqNnnsM-LTw)
+- [Gablingen](https://t.me/joinchat/MW8ulxZIEB8ldsU8wykTWA)
 - [Göggingen](https://t.me/joinchat/LXjLxVePZox4hUVrx5DuLQ)
 - [Hammerschmiede](https://t.me/joinchat/LXjLxVkTZDyx9x00nTRgkg)
 - [Haunstetten](https://t.me/joinchat/LXjLxVHuVg6SVb5SJwTQeg)
