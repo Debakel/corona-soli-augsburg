@@ -2,6 +2,8 @@
 layout: home
 ---
 
+[**Deutsch**](/) \| [русский язык](/ru) \| [العربية](/ar)
+
 ## Liebe Nachbarschaft!
 
 In Krisenzeiten ist es wichtig, zusammen zu halten. Sie sind nicht allein, wir helfen Ihnen gerne!
