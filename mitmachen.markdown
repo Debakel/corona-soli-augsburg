@@ -4,6 +4,8 @@ permalink: "/mitmachen/"
 layout: page
 ---
 
+![](/soli.jpg)
+
 Wir freuen uns natürlich über alle, die sich gerne anschließen wollen! Der Plan ist in jedem Ortsteil Augsburgs einige junge gesunde Leute zu haben, die dort ein paar mal die Woche für Risiko-Menschen einkaufen oder andere Dinge erledigen.
 
 Wir koordinieren uns momentan über Gruppen in der  Nachrichten-App *Telegram*. Über folgende Links könnt ihr dem Gruppenchat beitreten:
@@ -27,7 +29,6 @@ Wir koordinieren uns momentan über Gruppen in der  Nachrichten-App *Telegram*. 
 - [Stadtbergen](https://t.me/joinchat/LXjLxVUWlpek9PfNaMDGng)
 - [Textilviertel](https://t.me/joinchat/LXjLxUn2M5Dw1P0m_I8BFg)
 - [Univiertel](https://t.me/joinchat/LXjLxUUsUwv5o6tdd9CZgw)
+- [*Allgemeine augsburgweite Gruppe*](https://t.me/joinchat/MW8ul0WyK3l8VX8GnVfbPQ)
 
 Änderungen an dieser Website können über einen Pull-Request via [GitHub](https://github.com/Debakel/corona-soli-augsburg) erfolgen (oder einfach eine Mail an [nachbarschaftshilfe_augsburg@posteo.net](mailto:nachbarschaftshilfe_augsburg@posteo.net)).
-
-- [Allgemeine augsburgweite Gruppe](https://t.me/joinchat/MW8ul0WyK3l8VX8GnVfbPQ)

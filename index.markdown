@@ -4,6 +4,8 @@ layout: home
 
 [**Deutsch**](/) \| [русский язык](/ru) \| [العربية](/ar)
 
+![](/soli.jpg)
+
 ## Liebe Nachbarschaft!
 
 In Krisenzeiten ist es wichtig, zusammen zu halten. Sie sind nicht allein, wir helfen Ihnen gerne!
@@ -22,7 +24,7 @@ PS: Wir freuen uns natürlich über alle, die sich gerne anschließen wollen! Sc
 
 ### Weitere Initiativen in Augsburg
 - [Rette deinen Lieblingsladen](https://www.rette-deinen-lieblingsladen.de/) - Was wäre Augsburg ohne Dein Lieblings-Café, -Burger oder Laden? Hilf mit und rette deinen Lieblingsladen mit Gutscheinkäufen.
-- Auch das [Freiwilligen-Zentrum Augsburg](https://www.freiwilligen-zentrum-augsburg.de/) koordiniert und unterstützt ganz aktuell Hilfsangebote und Bedarfe.
+- Auch das [Freiwilligen-Zentrum Augsburg](https://www.freiwilligen-zentrum-augsburg.de/) und eine [Gruppe von FCA Fans](https://ubt-augsburg.de/2020/03/17/augsburg-und-schwaben-haelt-zusammen/) koordinieren aktuell Hilfsangebote und Bedarfe.
 - Wenn Sie jemanden brauchen, der Ihnen etwas einkauft oder wenn Sie auch nur am Telefon ein paar Minuten jemanden sprechen wollen,  melden Sie sich bei der *Pfarreiengemeinschaft Augsburg-Oberhausen/Bärenkeller*:  0821-241343
 - [Facebookgruppe "Augsburg Quarantänen-Hilfe"](https://www.facebook.com/groups/205611197322088/)
 
