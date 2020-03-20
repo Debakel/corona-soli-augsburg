@@ -4,7 +4,7 @@ permalink: "/mitmachen/"
 layout: page
 ---
 
-![](/soli.jpg)
+![](/img/soli.jpg)
 
 Wir freuen uns natürlich über alle, die sich gerne anschließen wollen! Der Plan ist in jedem Ortsteil Augsburgs einige junge gesunde Leute zu haben, die dort ein paar mal die Woche für Risiko-Menschen einkaufen oder andere Dinge erledigen.
 
