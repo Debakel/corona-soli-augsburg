@@ -2,7 +2,11 @@
 layout: home
 ---
 
-[**Deutsch**](/) \| [русский язык](/ru) \| [العربية](/ar)
+[**Deutsch**](/) \| 
+[Leichte Sprache](/leichte-sprache) \| 
+[русский язык](/ru) \|
+[العربية](/ar) \| 
+[English](/en) 
 
 ![](/img/soli.jpg)
 
@@ -14,7 +18,7 @@ Wenn Sie zur Risikogruppe für eine Corona-Erkrankung gehören – das heißt, S
 
 Wir sind gerne für Sie da, indem wir für Sie Einkäufe erledigen, zur Post oder Apotheke gehen, mit dem Hund rausgehen oder ähnliches erledigen (natürlich kostenfrei). Falls Sie besorgt sind, vor die Tür zu gehen, zögern Sie bitte nicht, diese Nachbarschaftshilfe anzunehmen. Es ist gut, in Krisenzeiten Ruhe zu bewahren und füreinander da zu sein.
 
-Sie erreichen uns unter der Nummer **[0176 576 441 95](tel:+4917657644195)** oder per [E-Mail an nachbarschaftshilfe_augsburg@posteo.net](mailto:nachbarschaftshilfe_augsburg@posteo.net).
+Sie erreichen uns unter der Nummer **[0176 576 441 95](tel:+4917657644195)** (Alex) oder per [E-Mail an nachbarschaftshilfe_augsburg@posteo.net](mailto:nachbarschaftshilfe_augsburg@posteo.net).
 
 Wir helfen Ihnen gerne.  
 Liebe Grüße und auf unsere Gesundheit,  

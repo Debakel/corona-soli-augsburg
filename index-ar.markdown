@@ -3,7 +3,11 @@ layout: home
 permalink: "/ar/"
 ---
 
-[Deutsch](/) \| [русский язык](/ru) \| [**العربية**](/ar)
+[Deutsch](/) \| 
+[Leichte Sprache](/leichte-sprache) \| 
+[русский язык](/ru) \|
+**[العربية](/ar)** \| 
+[English](/en)  
 
 ![](/img/soli.jpg)
 

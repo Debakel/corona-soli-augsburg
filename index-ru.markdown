@@ -3,7 +3,11 @@ layout: home
 permalink: "/ru/"
 ---
 
-[Deutsch](/) \| [**русский язык**](/ru) \| [العربية](/ar)
+[Deutsch](/) \| 
+[Leichte Sprache](/leichte-sprache) \| 
+[**русский язык**](/ru) \|
+[العربية](/ar) \| 
+[English](/en) 
 
 ![](/img/soli.jpg)
 
@@ -18,7 +22,7 @@ permalink: "/ru/"
 Если Вы опасаетесь выходить из дома, обращайтесь к нам без промедления. В кризисные времена важно оставаться спокойными и помогать друг другу.
 
 Вы можете нам звонить по номеру:  
-**0173 4982 234**
+**0173 4982 234** (Marina)
 
 E-Mail: nachbarschaftshilfe_augsburg@posteo.net
 
