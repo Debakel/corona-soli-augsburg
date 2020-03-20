@@ -7,7 +7,8 @@ permalink: "/en/"
 [Leichte Sprache](/leichte-sprache) \| 
 [русский язык](/ru) \|
 [العربية](/ar) \| 
-[**English**](/en) 
+[**English**](/en) \| 
+[Español](/es)   
 
 ![](/img/soli.jpg)
 
