@@ -8,7 +8,9 @@ permalink: "/leichte-sprache/"
 [русский язык](/ru) \|
 **[العربية](/ar)** \| 
 [English](/en) \| 
-[Español](/es)   
+[Español](/es) \| 
+[Türkçe](/tr) \| 
+[kurdî](/ku)   
 
 ![](/img/soli.jpg)
 
