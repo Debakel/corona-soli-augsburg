@@ -24,12 +24,12 @@ Em kêfxweş in ku ji kirîna kirîna we, diçin posteyê an dermanxaneyê, derk
 
 
 Hûn dikarin li ser hejmarê bigihîjin me:  
-**0176 576 441 95** (Alexander)
+**0159 0641 9376** (Çinar)
 
 Em kêfxweş in ku alîkariya we dikin.
  
 Silav û ji tenduristiya me re,  
-Alexander
+Çinar & Team
  
 PS: Em bê guman ji her kesê / ê ku dixwazin beşdar bibin kêfxweş in! Dilê min e ku ji min re peyamek bişîne da ku em karibin hevalbendiyê bikin û rêve bibin.
  
