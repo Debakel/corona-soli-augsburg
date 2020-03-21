@@ -24,7 +24,7 @@ Em kêfxweş in ku ji kirîna kirîna we, diçin posteyê an dermanxaneyê, derk
 
 
 Hûn dikarin li ser hejmarê bigihîjin me:  
-**0176 576 441 95** (Alexander)
+**0159 0641 9376** (Çinar)
 
 Em kêfxweş in ku alîkariya we dikin.
  
