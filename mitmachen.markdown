@@ -10,6 +10,7 @@ Wir freuen uns natürlich über alle, die sich gerne anschließen wollen! Der Pl
 
 Wir koordinieren uns momentan über Gruppen in der  Nachrichten-App *Telegram*. Über folgende Links könnt ihr dem Gruppenchat beitreten:
 
+- [Antonsviertel](https://t.me/joinchat/LXjLxUl8CYNg-Mut1Q33Bw)
 - [Bärenkeller](https://t.me/joinchat/LXjLxVdsGe-iKqEbgWW5yw)
 - [Firnhaberau](https://t.me/joinchat/LXjLxUV_3gGsqNnnsM-LTw)
 - [Gablingen](https://t.me/joinchat/MW8ulxZIEB8ldsU8wykTWA)
