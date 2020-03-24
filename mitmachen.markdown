@@ -12,8 +12,10 @@ Wir koordinieren uns momentan über Gruppen in der  Nachrichten-App *Telegram*. 
 
 - [Antonsviertel](https://t.me/joinchat/LXjLxUl8CYNg-Mut1Q33Bw)
 - [Bärenkeller](https://t.me/joinchat/LXjLxVdsGe-iKqEbgWW5yw)
+- [Bismarckviertel](https://t.me/joinchat/LXjLxUThRLOaahMbsbsUng)
 - [Firnhaberau](https://t.me/joinchat/LXjLxUV_3gGsqNnnsM-LTw)
 - [Gablingen](https://t.me/joinchat/MW8ulxZIEB8ldsU8wykTWA)
+- [Gersthofen](https://t.me/joinchat/E-_iLhv4Z1FwOynzNTXLrw)
 - [Göggingen](https://t.me/joinchat/LXjLxVePZox4hUVrx5DuLQ)
 - [Hammerschmiede](https://t.me/joinchat/LXjLxVkTZDyx9x00nTRgkg)
 - [Haunstetten](https://t.me/joinchat/LXjLxVHuVg6SVb5SJwTQeg)
