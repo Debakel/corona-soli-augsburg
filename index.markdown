@@ -37,5 +37,6 @@ PS: Wir freuen uns natürlich über alle, die sich gerne anschließen wollen! Sc
 - [Facebookgruppe "Augsburg Quarantänen-Hilfe"](https://www.facebook.com/groups/205611197322088/)
 
 ### ... und bundesweit
+- [#LeaveNoOneBehind](https://www.change.org/p/leavenoonebehind-jetzt-die-corona-katastrophe-verhindern-auch-an-den-au%C3%9Fengrenzen): Jetzt die Corona-Katastrophe verhindern - auch an den Außengrenzen!
 - Auf der Plattform [quarantänehelden.org](https://www.quarantaenehelden.org/) kommen Menschen zusammen, die sich gegenseitig unterstützen
 - [WirHelfen](https://wirhelfen.eu/) ist eine zentrale Anlaufstelle für das Hilfsangebot in Deutschland. Auf der Karte findest du bundesweit alle Nachbarschaftshilfen klar und einfach zusammengefasst.
