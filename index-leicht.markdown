@@ -6,11 +6,12 @@ permalink: "/leichte-sprache/"
 [Deutsch](/) \| 
 [**Leichte Sprache**](/leichte-sprache) \| 
 [русский язык](/ru) \|
-**[العربية](/ar)** \| 
+[العربية](/ar) \| 
 [English](/en) \| 
 [Español](/es) \| 
 [Türkçe](/tr) \| 
-[kurdî](/ku)   
+[kurdî](/ku) \| 
+[português](/pt)   
 
 ![](/img/soli.jpg)
 

@@ -10,7 +10,8 @@ permalink: "/en/"
 [**English**](/en) \| 
 [Español](/es) \| 
 [Türkçe](/tr) \| 
-[kurdî](/ku)   
+[kurdî](/ku) \| 
+[português](/pt)   
 
 ![](/img/soli.jpg)
 
