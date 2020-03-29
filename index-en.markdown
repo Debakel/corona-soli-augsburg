@@ -30,7 +30,7 @@ We do the shopping for you, go to the post office or pharmacy, take the dog out 
 It is good to stay calm and be there for each other in times of crisis. 
 
 Call this number if you need our help:  
-**[0176 576 441 95](tel:+4917657644195)** (Alex)
+**[0821/5673407-00](tel:0821/5673407-00)**  
 
 We are happy to help you.
 
