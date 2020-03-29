@@ -36,7 +36,7 @@ Dann werden weniger alte und kranke Menschen sehr krank.
 
 
 Wenn Sie oder ein Familienmitglied oder Freund Hilfe beim Einkaufen brauchen, können Sie diese Telefonnummer anrufen:  
-**[0176 576 441 95](tel:+4917657644195)** (Alex)
+**[0821/5673407-00](tel:0821/5673407-00)** (Zentrale)
 
 Liebe Grüße und passen Sie auf sich auf,  
 das Nachbarschafts-Hilfe-Team Augsburg
